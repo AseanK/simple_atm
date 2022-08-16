@@ -10,3 +10,5 @@ To run this project,
 - save the files on empty directory. Open terminal at the directory.
 - Run following code on the terminal: % http-server -c-1
 - Navigate to http://localhost:8080
+
+<img src='atm.gif' width='720' height='720'>
